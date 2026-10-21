@@ -11,20 +11,6 @@ Made for the web development task of the EDC technical department recruitment.
 
 No installation or internet connection is needed.
 
-## Files
-
-```text
-ventureverse/
-├── index.html   page structure and content
-├── style.css    colours, layout and responsive rules
-├── script.js    demo form validation
-├── README.md    this file
-└── images/
-    ├── edc-logo-light.png        EDC logo for light backgrounds (header)
-    ├── edc-logo-dark.png         EDC logo for dark backgrounds (footer)
-    └── jss-university-logo.png   JSS University emblem
-```
-
 ## What is on the page
 
 - Header with the EDC logo, links to each section and a register button
